@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+.container img{
+    width: 240px;
+    height: 160px;
+}
+
+.first{
+    background-color: rgb(2, 48, 70);
+    width: 25%;
+   height: 1200px;
+}
+hr{
+    color: white;
+}
+
+.contact{
+    color: white;
+}
+.container .mail{
+    width: 32px;
+    height: 30px;
+}
+.container .mail_name{
+color: white;
+
+}
+
+.mm{
+margin-left: 12px;
+}
+.skill{
+    color: white;
+}
+
+.language{
+    color: white;
+}
+
+.heading hr{
+    color: rgb(116, 67, 67);
+    width: 200px;
+    margin-left: 22px;
+}
+.heading{
+    width: 980px;
+
+    padding-left: 165px;
+    
+    background-color:#ebedef;
+}
